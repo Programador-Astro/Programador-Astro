@@ -15,9 +15,11 @@ def abilidades(
 ° Desenvolvimento WEB: HTML, CSS E JS - Python )
 
 if mais_informações = True:
-  Veja essas habilidades aplicadas nos meu projetos aqui mesmo ou em formato de video no meu canal do youtube!
+
+ print(Veja essas habilidades aplicadas nos meu projetos aqui mesmo ou em formato de video no meu canal do youtube!)
 
 else:
+
   Print('Procuro desafios, projetos em que eu quebre bastante a cabeça!')
 
 
