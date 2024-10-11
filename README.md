@@ -1,5 +1,7 @@
 Aoba!! Astro aqui!👨‍🚀
-Sou um programador full-stack, com fortes habilidades em desing mas meus esforços, procuro consetrar no back-end.
+
+Sou um programador full-stack, com fortes habilidades em  design, mas meus esforços, procuro concentrar no back-end.
+
 Deixe eu apresentar minhas principais habilidades.
 
 def abilidades(
