@@ -5,6 +5,7 @@ Sou um programador full-stack, com fortes habilidades em  design, mas meus esfor
 Deixe eu apresentar minhas principais habilidades.
 
 def abilidades(
+
 ° Especialista em python para back-end e front-end!
 ° Se houver banco de dados SQL. Pode contar que estou la!
 ° Analise de dados. Todos os dias estou fazendo...
