@@ -1,4 +1,4 @@
-Aoba!! Astro aqui!👨‍🚀
+Aoba!! Astro aqui!👨‍🚀 [ youtube: @Astronot-t3f | linkedin: @astronot ]
 
 Sou um programador full-stack, com fortes habilidades em  design, mas meus esforços, procuro concentrar no back-end.
 
@@ -17,10 +17,12 @@ def abilidades(
 if mais_informações = True:
 
  print(Veja essas habilidades aplicadas nos meu projetos aqui mesmo ou em formato de video no meu canal do youtube!)
+ link canal do youtube: www.youtube.com/@Astronot-t3f
 
 else:
 
   Print('Procuro desafios, projetos em que eu quebre bastante a cabeça!')
+
 
 
 <!---
