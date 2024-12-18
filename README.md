@@ -1,4 +1,5 @@
-Aoba!! Astro aqui!👨‍🚀 [ youtube: @Astronot-t3f | linkedin: @astronot ]
+Aoba!! Astro aqui!👨‍🚀 [ youtube: https://www.youtube.com/channel/UC-lQymxgTPmqHOvL4XWJYTQ
+                      linkedin: https://www.linkedin.com/in/astro-programador-0a1805342/ ]
 
 Sou um programador full-stack, com fortes habilidades em  design, mas meus esforços, procuro concentrar no back-end.
 
@@ -22,10 +23,3 @@ if mais_informações = True:
 else:
 
   Print('Procuro desafios, projetos em que eu quebre bastante a cabeça!')
-
-
-
-<!---
-Programador-Astro/Programador-Astro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
