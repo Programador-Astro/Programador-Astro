@@ -1,5 +1,6 @@
-Aoba!! Astro aqui!👨‍🚀 [ youtube: https://www.youtube.com/channel/UC-lQymxgTPmqHOvL4XWJYTQ
-                      linkedin: https://www.linkedin.com/in/astro-programador-0a1805342/ ]
+Aoba!! Astro aqui!👨‍🚀 
+[ youtube: https://www.youtube.com/channel/UC-lQymxgTPmqHOvL4XWJYTQ
+                     https://www.linkedin.com/in/astro-programador-a52625232/ ]
 
 Sou um programador full-stack, com fortes habilidades em  design, mas meus esforços, procuro concentrar no back-end.
 
