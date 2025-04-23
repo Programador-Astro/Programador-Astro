@@ -1,5 +1,5 @@
 # <div style="display: flex; align-items: center;"> <div>Astro</div> <img style="width: 80px;" src="astro.png" /> </div>
-O meu canal no YouTube compartilha minhas habilidades <a style="color: blue;" href="https://www.youtube.com/@ProgramadorAstro">@ProgramadorAstro</a>
+
 Desenvolvedor Full Stack em início de carreira, com forte interesse em criar soluções inovadoras e eficientes. Atualmente cursando o 1º semestre de Engenharia de Software na UNIFACS, com foco em ampliar habilidades técnicas e adquirir uma base sólida em engenharia de sistemas. Proativo, curioso e apaixonado por desenvolvimento web e tecnologias modernas.
 
 # Tecnologias: 
